@@ -1,8 +1,7 @@
 %% TAMRs in optical fibers, excitation and detection
 % Pump: fundamental mode. Probe: fundamental mode. Only R0m
-% Luis Alberto Sánchez Domínguez, Laboratory of Fiber Optics
-% Ref: Diamandi et al (2017). Diamandi et al (2020). 
-%%
+% Luis Alberto SÃ¡nchez DomÃ­nguez, Laboratory of Fiber Optics
+
 close all, clear all
 
 % Fiber parameters
